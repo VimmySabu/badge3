@@ -1,0 +1,75 @@
+{
+	"products": [{
+		"Serial number": "1",
+		"item": "Beans",
+		"quantity": "0.5",
+		"unit": "kg",
+		"Department": "vegetables",
+		"Notes": "should be fresh"
+	},{
+		"Serial number": "2",
+		"item": "rice",
+		"quantity": "3",
+		"unit": "kg",
+		"Department": "Grains/flours",
+		"Notes": "Basmati/White rice"
+	},{
+		"Serial number": "3",
+		"item": "carrot",
+		"quantity": "0.5",
+		"unit": "kg",
+		"Department": "vegetables",
+		"Notes": "should be fresh"
+	},{
+		"Serial number": "4",
+		"item": "milk",
+		"quantity": "2",
+		"unit": "packets",
+		"Department": "Dairy products",
+		"Notes": "should be fresh"
+	},{
+		"Serial number": "5",
+		"item": "carrot",
+		"quantity": "1",
+		"unit": "kg",
+		"Department": "vegetables",
+		"Notes": "should be fresh"
+	},{
+		"Serial number": "6",
+		"item": "Chilli powder",
+		"quantity": "1/4",
+		"unit": "kg",
+		"Department": "Spices",
+		"Notes": "Kashmiri"
+	},{
+		"Serial number": "7",
+		"item": "Tooth paste",
+		"quantity": "200 ",
+		"unit": "gms",
+		"Department": "Toiletries",
+		"Notes": "Colgate"
+	},{
+		"Serial number": "8",
+		"item": "Shampoo",
+		"quantity": "1",
+		"unit": "bottle",
+		"Department": "Toiletries",
+		"Notes": "Pantene"
+	},{
+		"Serial number": "9",
+		"item": "Tea powder",
+		"quantity": "100",
+		"unit": "gms",
+		"Department": "Spice powder",
+		"Notes": "AVT"
+	},{
+		"Serial number": "10",
+		"item": "Wheat flour",
+		"quantity": "2",
+		"unit": "kg",
+		"Department": "Grains/Flours",
+		"Notes": "Aashirvaad"
+	}
+	
+	]
+	}
