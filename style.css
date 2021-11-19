@@ -7,8 +7,10 @@
 
 }
 body{
-    background-image: url(./bg.jpeg);
+    background-image:url(./index.jpeg);
     background-repeat: no-repeat;
+    background-size: cover;
+   
     
     
 }
@@ -17,8 +19,8 @@ h1{
     color:white;
     font-family: 'Architects Daughter', cursive;
     font-size: 30px;
-    text-shadow:5px 3px 3px rgb(66, 58, 58);
-    transform: translateX();
+    text-shadow:5px 3px 3px rgb(7, 7, 7);
+    
     
     
 }
@@ -33,10 +35,14 @@ input{
     font-family: 'Architects Daughter', cursive;
     
 }
+
+
 .table{
+   
     font-size: 20px;
     font-weight: bold;
     font-family: 'Architects Daughter', cursive;
     box-shadow: 0 8px 22px rgba(0,0,0,0.5);
     background-color: white;
+    
 }
