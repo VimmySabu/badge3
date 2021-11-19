@@ -3,11 +3,16 @@
 *{
     margin: 0px;
     padding: 0px;
+    
 
 }
-
+body{
+    background-image: url(./bg.jpeg);
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+}
 h1{
-    color:black;
+    color:white;
     font-family: 'Architects Daughter', cursive;
     font-size: 30px;
     text-shadow:5px 3px 3px rgb(194, 176, 176);
