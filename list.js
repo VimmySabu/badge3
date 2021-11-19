@@ -1,8 +1,7 @@
 const body=document.querySelector("body")
 const table=document.querySelector("table")
 
-table.style.backgroundColor="white";
-table.style.boxShadow="0 8px 22px rgba(0,0,0,0.5)"
+
 
 function generateList(){
     const thead=document.querySelector("thead")
