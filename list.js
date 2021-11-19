@@ -48,10 +48,14 @@ function generateList(){
                 for(var j=0;j<entries.length;j++){
                     var cell = document.createElement("td");
                     var cellText = document.createTextNode(entries[j][1]);
-                    
                     cell.appendChild(cellText);
                     row.appendChild(cell);
                 }
+                var inCell=document.createElement("input")
+                inCell.setAttribute("type","checkbox")
+                inCell.style.marginRight="50px"
+                cell.appendChild(inCell);
+                row.appendChild(cell);
                 tbody.appendChild(row);
             }
 
