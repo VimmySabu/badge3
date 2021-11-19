@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+h1{
+    color: black;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 900;
+    
+    text-shadow:5px 3px 5px rgb(141, 135, 135);
+    
+
+    
+}
+.btn{
+    font-family: 'Architects Daughter', cursive;
+}
+.table{
+    font-size: 18px;
+    font-family: 'Architects Daughter', cursive;
+}

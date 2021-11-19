@@ -1,6 +1,19 @@
+const body=document.querySelector("body")
+const table=document.querySelector("table")
+
+table.style.backgroundColor="white";
+table.style.boxShadow="0 8px 22px rgba(0,0,0,0.5)"
+
+
+
+
+
+
 function generateList(){
     const thead=document.querySelector("thead")
     const tbody=document.querySelector("tbody")
+    
+    
     
     var request=new XMLHttpRequest();
     request.onreadystatechange=function(){
@@ -35,14 +48,21 @@ function generateList(){
                 for(var j=0;j<entries.length;j++){
                     var cell = document.createElement("td");
                     var cellText = document.createTextNode(entries[j][1]);
+                    
                     cell.appendChild(cellText);
                     row.appendChild(cell);
                 }
                 tbody.appendChild(row);
-            
             }
+
             
-        
+
+
+    
+
+
+          
+            
         }
     }
     request.open("GET","products.json","true");

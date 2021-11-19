@@ -1,74 +1,85 @@
 {
 	"products": [{
-		"Serial number": "1",
-		"item": "Beans",
-		"quantity": "0.5",
-		"unit": "kg",
+		"Serial no": "1",
+		"Item": "Beans",
+		"Quantity": "1/2",
+		"Unit": "kg",
 		"Department": "vegetables",
 		"Notes": "should be fresh"
+		
+		
 	},{
-		"Serial number": "2",
-		"item": "rice",
-		"quantity": "3",
-		"unit": "kg",
+		"Serial no": "2",
+		"Item": "rice",
+		"Quantity": "3",
+		"Unit": "kg",
 		"Department": "Grains/flours",
 		"Notes": "Basmati/White rice"
+		
 	},{
-		"Serial number": "3",
-		"item": "carrot",
-		"quantity": "0.5",
-		"unit": "kg",
+		"Serial no": "3",
+		"Item": "carrot",
+		"Quantity": "1/2",
+		"Unit": "kg",
 		"Department": "vegetables",
 		"Notes": "should be fresh"
+		
 	},{
-		"Serial number": "4",
-		"item": "milk",
-		"quantity": "2",
-		"unit": "packets",
+		"Serial no": "4",
+		"Item": "milk",
+		"Quantity": "2",
+		"Unit": "packets",
 		"Department": "Dairy products",
 		"Notes": "should be fresh"
+		
 	},{
-		"Serial number": "5",
-		"item": "carrot",
-		"quantity": "1",
-		"unit": "kg",
+		"Serial no": "5",
+		"Item": "carrot",
+		"Quantity": "1",
+		"Unit": "kg",
 		"Department": "vegetables",
 		"Notes": "should be fresh"
+		
 	},{
-		"Serial number": "6",
-		"item": "Chilli powder",
-		"quantity": "1/4",
-		"unit": "kg",
+		"Serial no": "6",
+		"Item": "Chilli powder",
+		"Quantity": "1/4",
+		"Unit": "kg",
 		"Department": "Spices",
 		"Notes": "Kashmiri"
+		
 	},{
-		"Serial number": "7",
-		"item": "Tooth paste",
-		"quantity": "200 ",
-		"unit": "gms",
+		"Serial no": "7",
+		"Item": "Tooth paste",
+		"Quantity": "200 ",
+		"Unit": "gms",
 		"Department": "Toiletries",
 		"Notes": "Colgate"
+		
 	},{
-		"Serial number": "8",
-		"item": "Shampoo",
-		"quantity": "1",
-		"unit": "bottle",
+		"Serial no": "8",
+		"Item": "Shampoo",
+		"Quantity": "1",
+		"Unit": "bottle",
 		"Department": "Toiletries",
 		"Notes": "Pantene"
+		
 	},{
-		"Serial number": "9",
-		"item": "Tea powder",
-		"quantity": "100",
-		"unit": "gms",
+		"Serial no": "9",
+		"Item": "Tea powder",
+		"Quantity": "100",
+		"Unit": "gms",
 		"Department": "Spice powder",
 		"Notes": "AVT"
+		
 	},{
-		"Serial number": "10",
-		"item": "Wheat flour",
-		"quantity": "2",
-		"unit": "kg",
+		"Serial no": "10",
+		"Item": "Wheat flour",
+		"Quantity": "2",
+		"Unit": "kg",
 		"Department": "Grains/Flours",
 		"Notes": "Aashirvaad"
+		
 	}
 	
 	]
