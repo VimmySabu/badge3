@@ -90,6 +90,15 @@
 		"Notes": "Aashirvaad",
 		"Status":""
 		
+	},{
+		"Serial no": "11",
+		"Item": "Potatoes",
+		"Quantity": "2",
+		"Unit": "kg",
+		"Department": "Vegetables",
+		"Notes": "Fesh",
+		"Status":""
+		
 	}
 	
 	]
