@@ -12,13 +12,14 @@ body{
     
     
 }
+
 h1{
     color:white;
     font-family: 'Architects Daughter', cursive;
     font-size: 30px;
     text-shadow:5px 3px 3px rgb(66, 58, 58);
+    transform: translateX();
     
-
     
 }
 input{
@@ -26,6 +27,8 @@ input{
     float: right;
     
 }
+
+
 .btn{
     font-family: 'Architects Daughter', cursive;
     

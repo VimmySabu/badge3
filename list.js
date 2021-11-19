@@ -53,9 +53,7 @@ function generateList(){
                 tbody.appendChild(row);
             }
 
-            
-
-            
+          
 
 
     
